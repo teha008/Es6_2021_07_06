@@ -1,0 +1,21 @@
+{
+  "name": "es6_2021_07_06",
+  "version": "1.0.0",
+  "description": "[작성일]\r 2021년 7월 6일",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "babel-loader": "^8.0.5"
+  }
+}
